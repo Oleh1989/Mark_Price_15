@@ -1,0 +1,4 @@
+D:\Projects\Mark_Price_15\NorthwindMVC\NorthwindContextLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+D:\Projects\Mark_Price_15\NorthwindMVC\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+D:\Projects\Mark_Price_15\NorthwindMVC\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.AssemblyInfoInputs.cache
+D:\Projects\Mark_Price_15\NorthwindMVC\NorthwindContextLib\obj\Debug\netstandard2.0\NorthwindContextLib.AssemblyInfo.cs
